@@ -1,0 +1,22 @@
+{
+  "name": "desanimacoffee",
+  "version": "1.0.0",
+  "description": "Site da Desanima Coffee",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gustavo Vieira",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "mongoose": "^6.4.0",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
+    "start": "^5.1.0"
+  }
+}
